@@ -4,7 +4,7 @@
 
 **Course:** Sistemas de Informação ([SINF](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459494)) | Information Systems
 
-**Projects developed by:** Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), Tiago Alves ([tiago-falves](https://github.com/tiago-falves)) and Miguel Pinto ([MiguelDelPinto](https://github.com/MiguelDelPinto)) 
+**Projects developed by:** Eduardo Ribeiro ([EduRibeiro00](https://github.com/EduRibeiro00)), David Silva ([daviddias99](https://github.com/daviddias99)), Luís Cunha ([luispcunha](https://github.com/luispcunha)) and Filipa Senra ([filipasenra](https://github.com/filipasenra))
 
 ---
 
