@@ -13,7 +13,7 @@
 * Developed web application that integrates with [Primavera Jasmin](https://www.jasminsoftware.pt/).
 * Promoted automation of purchase/sales processes and return processes between companies by detecting and generating related documents.
 * Created interface that provides a comprehensive overview of all documents related to the processes between a pair of companies.
-* Languages/technologies used: **JavaScript, React, Bulma (SCSS), Node, Docker, Primavera Jasmin API.**
+* Languages/technologies used: **JavaScript, React, Bulma (SCSS), Node, Docker, PostgreSQL, Primavera Jasmin API.**
 
 **Grade**: 16,67 / 20
 
